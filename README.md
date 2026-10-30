@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo-deo-repair.png" width="120" alt="Deo Repair" />
+<img src="Perfil · Deo Repair@1x.png" width="120" alt="Deo Repair" />
 
 # Deo Repair
 
